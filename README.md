@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nruzhzhaugash&label=Profile%20views&color=0e75b6&style=flat" alt="zen-vov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nruzhzhaugash&label=Profile%20views&color=0e75b6&style=flat" alt="Nruzhzhaugash" /> </p>
 
 ---
 
@@ -54,4 +54,6 @@ Here are some ideas to get you started:
  ---
 
 ### :fire: My Stats :
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nruzhzhaugash&show_icons=true&locale=en" alt="Nruzhzhaugash" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nruzhzhaugash)](https://git.io/streak-stats)
