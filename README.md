@@ -54,10 +54,5 @@ Here are some ideas to get you started:
  ---
 
 ### :fire: My Stats :
-<div align='center'>
-	[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nurzh)](https://github.com/nurzh/github-readme-stats)
-	[![GitHub Streak](https://streak-stats.demolab.com?user=Nruzhzhaugash)](https://git.io/streak-stats)
-</div>
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@nurzh/36bc21d5-ab01-4500-a3b6-a7a5747b0422.png" /></a> -->
-<!-- <figure><embed src="https://wakatime.com/share/@nurzh/e613bc10-d774-49a1-a658-ecfb47010fa8.svg"></embed></figure> -->
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nurzh)](https://github.com/nurzh/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nruzhzhaugash)](https://git.io/streak-stats)
