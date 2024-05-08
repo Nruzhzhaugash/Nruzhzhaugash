@@ -54,7 +54,7 @@ Here are some ideas to get you started:
  ---
 
 ### :fire: My Stats :
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Nruzhzhaugash" alt="Nruzhzhaugash" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=nurzh" alt="Nruzhzhaugash" /></p> 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@nurzh/36bc21d5-ab01-4500-a3b6-a7a5747b0422.png" /></a> -->
 <!-- <figure><embed src="https://wakatime.com/share/@nurzh/e613bc10-d774-49a1-a658-ecfb47010fa8.svg"></embed></figure> -->
 
