@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nruzhzhaugash&label=Profile%20views&color=0e75b6&style=flat" alt="Nruzhzhaugash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurzhh&label=Profile%20views&color=0e75b6&style=flat" alt="nurzhh" /> </p>
 
 ---
 
@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nurzh)](https://github.com/nurzh/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nruzhzhaugash)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nurzhh)](https://git.io/streak-stats)
